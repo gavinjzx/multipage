@@ -1,2 +1,19 @@
 # multipage
-VUE cli 4.x下配置多页面以及同时配置支持element-ui及mint-ui并且优化首页文件大小
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
